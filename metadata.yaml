@@ -1,0 +1,59 @@
+_repo: Passed-by-the-censor-The-Experience-of-an-American-Newspaper-Man-in-France_68970
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Herrick, Myron T. (Myron Timothy)
+    alias: Herrick, Myron Timothy
+    birthdate: 1854
+    deathdate: 1929
+    gutenberg_agent_id: '55034'
+    url: http://www.gutenberg.org/2009/agents/55034
+    wikipedia: https://en.wikipedia.org/wiki/Myron_T._Herrick
+  contributors:
+  - agent_name: Clemenceau, Georges
+    aliases:
+    - Clemenceau, Georges Eugène Benjamin
+    - Clemenceau, Georges Eugene Benjamin
+    birthdate: 1841
+    deathdate: 1929
+    gutenberg_agent_id: '40732'
+    url: http://www.gutenberg.org/2009/agents/40732
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Georges_Clemenceau
+    - https://en.wikipedia.org/wiki/Georges_Clemenceau
+  - agent_name: Young, Lafayette
+    birthdate: 1848
+    deathdate: 1926
+    gutenberg_agent_id: '55020'
+    url: http://www.gutenberg.org/2009/agents/55020
+    wikipedia: https://en.wikipedia.org/wiki/Lafayette_Young
+creator:
+  author:
+    agent_name: Williams, Wythe
+    birthdate: 1881
+    deathdate: 1956
+    gutenberg_agent_id: '55033'
+    url: http://www.gutenberg.org/2009/agents/55033
+description: ''
+gutenberg_issued: '2022-09-11'
+identifiers:
+  gutenberg: '68970'
+  lccn: '16010486'
+language: en
+pgterms:marc904: https://archive.org/details/passedbycensorex00will/page/n3/mode/2up
+pgterms:marc905: 20201112090737williams
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Graeme Mackreth and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :E. P. Dutton & Company,1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives, American'
+- !lcc 'D501'
+- GITenberg
+title: 'Passed by the censor: The Experience of an American Newspaper Man in France'
+url: http://www.gutenberg.org/ebooks/68970
