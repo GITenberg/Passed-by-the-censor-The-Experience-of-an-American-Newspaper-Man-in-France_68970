@@ -27,6 +27,9 @@ contributor:
     gutenberg_agent_id: '55020'
     url: http://www.gutenberg.org/2009/agents/55020
     wikipedia: https://en.wikipedia.org/wiki/Lafayette_Young
+covers:
+- cover_type: archival
+  image_path: 68970-h/images/cover.jpg
 creator:
   author:
     agent_name: Williams, Wythe
@@ -35,6 +38,8 @@ creator:
     gutenberg_agent_id: '55033'
     url: http://www.gutenberg.org/2009/agents/55033
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68970#Passed-by-the-censor-The-Experience-of-an-American-Newspaper-Man-in-France
 gutenberg_issued: '2022-09-11'
 identifiers:
   gutenberg: '68970'
